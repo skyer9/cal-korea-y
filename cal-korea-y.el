@@ -68,6 +68,7 @@
 (defconst holiday-korean-holidays
   '((holiday-fixed 1 1          "신정")
     (holiday-fixed 3 1          "3.1절")
+    (holiday-fixed 5 1          "근로자의날")
     (holiday-fixed 5 5          "어린이날")
     (holiday-fixed 6 6          "현충일")
     (holiday-fixed 8 15         "광복절")
